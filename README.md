@@ -37,4 +37,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com Alura :w# AluraFlix-Rocketseat
+Feito com Alura.
