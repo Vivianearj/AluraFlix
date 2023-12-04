@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 No AluraFlix podemos adicionar os nossos filmes favoritos através de links.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://vivianearj.github.io/AluraFlix/)
 
 
 ## :memo: Licença
